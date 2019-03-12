@@ -1,0 +1,2 @@
+- 简化和改造 react-swipeable-views：https://react-swipeable-views.com/api/api/
+- 依赖："dom-helpers": "^3.2.1"
